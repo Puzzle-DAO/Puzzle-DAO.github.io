@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Puzzle-DAO.github.io/static/css/main.c8054b05.css",
+    "main.css": "/Puzzle-DAO.github.io/static/css/main.b44a0844.css",
     "main.js": "/Puzzle-DAO.github.io/static/js/main.d2997f50.js",
     "static/media/logo.png": "/Puzzle-DAO.github.io/static/media/logo.67377b0962759ef361f9.png",
     "index.html": "/Puzzle-DAO.github.io/index.html",
-    "main.c8054b05.css.map": "/Puzzle-DAO.github.io/static/css/main.c8054b05.css.map",
+    "main.b44a0844.css.map": "/Puzzle-DAO.github.io/static/css/main.b44a0844.css.map",
     "main.d2997f50.js.map": "/Puzzle-DAO.github.io/static/js/main.d2997f50.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8054b05.css",
+    "static/css/main.b44a0844.css",
     "static/js/main.d2997f50.js"
   ]
 }
